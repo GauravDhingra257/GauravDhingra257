@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=GauravDhingra257&label=VIEWS&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=GauravDhingra257&label=VIEWS&color=brightgreen) -->
 ![](https://activity-graph.herokuapp.com/graph?username=Gauravdhingra257&theme=react-dark&hide_border=true&area=true)
 <h2> About Me </h2>
 
