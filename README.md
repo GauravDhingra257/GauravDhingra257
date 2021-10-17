@@ -1,4 +1,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=GauravDhingra257&label=VIEWS&color=brightgreen) -->
+<h1 align="center"> Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>   I'm Gaurav </h1>
+ 
 ![](https://activity-graph.herokuapp.com/graph?username=Gauravdhingra257&theme=react-dark&hide_border=true&area=true)
 <h2> About Me </h2>
 
@@ -30,3 +32,16 @@ You can click the Preview link to take a look at your changes.
 <h2> <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
+
+
+<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' width='32px'> </h2>
+
+<a href="#">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=GauravDhingra257&count_private=true&show_icons=true&theme=algolia" />
+</a>
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravDhingra257&theme=algolia" />
+</a>
+ <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+       <a href = 'https://www.linkedin.com/in/GauravDhingra257'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>&nbsp;&nbsp;&nbsp;</a>  <a href = 'https://www.github.com/GauravDhingra257'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>&nbsp;&nbsp;&nbsp;</a> 
+
